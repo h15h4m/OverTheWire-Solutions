@@ -1,3 +1,3 @@
 # Some of my overthewire.org war games solutions
 
-Mostly in python.
+quick solutions don't judge the code :D
