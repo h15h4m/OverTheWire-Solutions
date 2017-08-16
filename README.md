@@ -1,2 +1,3 @@
-# bandit24-solution
-the code I used to solve bandit24@overthewire 
+# Some of my overthewire.org war games solutions
+
+Mostly in python.
